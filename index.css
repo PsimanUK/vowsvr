@@ -1,0 +1,5 @@
+body {display: column;}
+h1 {color: aliceblue; font-size: 120; font-family: 'Merienda One', cursive;} 
+h2 {color: red; font-size: 46; font-family: 'Nanum Brush Script', cursive;}
+a {color: aliceblue; font-size: 26; font-family: 'Nanum Brush Script', cursive; border: solid, 6px, black; border-radius: 4px; background-color: grey; padding: 5px;}
+footer {padding: 10px; color: cornsilk;}
